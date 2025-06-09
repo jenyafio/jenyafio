@@ -1,4 +1,4 @@
-I do random things, currently trying to learn coding stuff.
+Game developer, currently working on an unannounced title.
 
 <!---
 jenyafio/jenyafio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
